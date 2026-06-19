@@ -1,0 +1,6 @@
+{
+  "name": "Human Verified Arena",
+  "description": "A rapid-fire, casual competitive web game where CAPTCHA is the ultimate test of human speed, coordination, and logic. Prove your humanity against insane, humorous, and impossible verification challenges!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
